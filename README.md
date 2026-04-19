@@ -1,3 +1,42 @@
+# 👋 Salut, moi c’est Bonheur Julord
+
+🎯 Passionné par la **data** et le **marketing digital**
+📊 Intéressé par l’analyse de données, la prise de décision et la performance business
+💡 Objectif : utiliser la data pour créer des stratégies efficaces et mesurables
+
+---
+
+## 🚀 Compétences
+
+* 📌 Analyse de données (Python, Pandas)
+* 📌 Visualisation (Matplotlib, Tableau)
+* 📌 Marketing digital & stratégie
+* 📌 Notions en Machine Learning
+
+---
+
+## 📂 Projets
+
+🔹 **Analyse du dataset Iris**
+Analyse exploratoire des données pour comprendre les différentes espèces de fleurs.
+
+---
+
+## 📈 Objectifs actuels
+
+* Développer des projets en data science
+* Construire un portfolio solide
+* Améliorer mes compétences en Python et en analyse de données
+
+---
+
+## 📫 Me contacter
+
+* 📧 Email : [bonheurjulord@gmail.com](mailto:tonemail@gmail.com)
+
+---
+
+⭐ N’hésite pas à explorer mes projets !
 ## Hi there 👋
 
 <!--
