@@ -18,7 +18,7 @@
 ## 📂 Projets
 
 🔹 **Analyse du dataset Iris**
-Analyse exploratoire des données pour comprendre les différentes espèces de fleurs.
+Projet de classification des fleurs d’Iris basé sur le machine learning.
 
 ---
 
